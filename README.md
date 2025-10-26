@@ -2,9 +2,11 @@
 Cross platform file sharing app using core concepts of Computer networks.
 
 ### To run this app : 
-Place this file in your project folder.
+Place this file in your project folder. 
+Run : 
 ``` cd file_location ```
 
+Run : 
 ``` python3 file_share_server.py ```
 
 You should be able to see it on local host with some port id.
